@@ -1,4 +1,4 @@
-# Document on Innovation
+# Chatbot Design 
 To innovate on the chatbot design, We would focus on the following areas:
 
 - **Personalization:** The chatbot could be personalized to the user's individual needs and preferences. This could be done by tracking the user's interactions with the website or app, and using this information to provide more relevant and helpful responses.
@@ -62,7 +62,7 @@ This tech stack is well-suited for developing a chatbot front-end because it is:
 - **Scalable:** React and WebSockets are both scalable technologies that can be used to handle a large number of users.
 - **Easy to use:** React and Material UI are both easy-to-use technologies, which makes them a good choice for developers of all skill levels.
 
-Of course, this is just one possible tech stack for the front-end of a chatbot. There are many other technologies that could be used, such as Vue.js, Angular, and Svelte. The best tech stack for this application can change as we move forword3.
+Of course, this is just one possible tech stack for the front-end of a chatbot. There are many other technologies that could be used, such as Vue.js, Angular, and Svelte. The best tech stack for your application will depend on your specific needs and requirements.
 
 ## Back-End
 The following is a possible tech stack for the back-end of the chatbot:
