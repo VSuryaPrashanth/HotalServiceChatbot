@@ -104,6 +104,7 @@ Press CTRL+C to quit
 ```
 
 ![[Screenshot 2023-10-18 at 19.49.28.png]]
+![plot](Screenshot 2023-10-18 at 19.49.28.png)
 As shown in above we are able to access Flask Application.
 
 ## Preprocessing Dataset
